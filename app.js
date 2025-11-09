@@ -85,7 +85,7 @@ var efVatl = new Matches(
   "1:00 A.M.",
   "Deutsche Bank Park"
 );
-var livVpsv = new Matches("Liverpool", "PSV", "27 Nov", "1:00 A.M.", "Anfield");
+var livVpsv = new Matches("LIV", "PSV", "27 Nov", "1:00 A.M.", "Anfield");
 var atletiVinter = new Matches(
   "ATM",
   "INT",
